@@ -42,7 +42,7 @@ lib/
 
 1. **Clone the repository:**
 ```bash
-git clone [repository-url]
+git clone [https://github.com/ThePareable/bim493_hw2]
 cd smart_pet_manager
 ```
 
